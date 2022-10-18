@@ -10,4 +10,8 @@ todo: add workspace configurations for vscode, extentions?
 ##
 -colored comments
 ##
+-Toggle section of constants that makes code diving less prominent to change simple things
+##
+-Singleton subsystem
+##
 -github for vscode(*maybe*)
