@@ -1,11 +1,11 @@
 # COMMAND BASED
 ##
-There are two approaches to making an FRC robot: **Imperative**, and **Command-Based**, of which we use the latter.
+There are two approaches to making an FRC robot: **iterative**, and **Command-Based**, of which we use the latter.
 <br/>
 
-# Imperative
-Imperative is like designing a linear list of orders for the robot to follow.
-It's hard to properly communicate the differences between the two philopsophies in a tl;dr format, but the cliff notes are that Imperative is what most inexperienced people would default to. While it's easier in the very short term, the drawbacks are too large to be viable; added maintenience, dependency, and ambiguity in control flow are all reasons to avoid imperative.
+# iterative
+iterative is like designing a linear list of orders for the robot to follow.
+It's hard to properly communicate the differences between the two philopsophies in a tl;dr format, but the cliff notes are that iterative is what most inexperienced people would default to. While it's easier in the very short term, the drawbacks are too large to be viable; added maintenience, dependency, and ambiguity in control flow are all reasons to avoid iterative.
 
 
 # Command Based (and declarative)
@@ -19,7 +19,7 @@ A quick distinction is in order:
 <thead>
   <tr>
     <th>Issue</th>
-    <th>Imperative</th>
+    <th>iterative</th>
     <th>Command-Based + Declarative</th>
   </tr>
 </thead>
