@@ -1,0 +1,2 @@
+Issue 02: Relating to the configuration of a pigeon2, and confusion with what is the robot's "front". First, know that X is forward, and Y is left.  
+As of now, the best fix advice is to align with X "forward," power cycling for verification, and taking the issue to phoenix tuner and further documenting. 
