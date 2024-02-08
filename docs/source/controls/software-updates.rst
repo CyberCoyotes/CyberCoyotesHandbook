@@ -42,4 +42,4 @@ Vendor Libraries
 Reference Documents
 --------------------
 - `Reference Doc <https://docs.google.com/document/d/1pE3562a7Np4BVmMLlAgXqFzefXEp5hn-s_72Zkyl828/edit>`_.
-- `Phoenix Software downloads <https://docs.ctr-electronics.com/>`_.
+- `Phoenix Software downloads <https://docs.ctr-electronics.com/>`_. 
